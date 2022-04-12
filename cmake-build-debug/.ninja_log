@@ -1,8 +1,6 @@
 # ninja log v5
+325	440	6714309546482667	hello_world.exe	a765fee4cb2fba37
 3	298	6714305072599366	CMakeFiles/hello_world.dir/example.cpp.obj	16fcfaa67193408c
-300	423	6714305073819358	hello_world.exe	99b8705495136379
-0	300	6714305072599366	CMakeFiles/hello_world.dir/hello_world.cpp.obj	bdd966856b680250
-2	283	6714306342642030	CMakeFiles/hello_world.dir/hello_world.cpp.obj	bdd966856b680250
-5	300	6714306596656434	CMakeFiles/hello_world.dir/moved_function.cpp.obj	fe1a83cbbddf9b93
-2	301	6714306596656434	CMakeFiles/hello_world.dir/hello_world.cpp.obj	bdd966856b680250
-302	418	6714306597786735	hello_world.exe	a765fee4cb2fba37
+1	126	6714309909253909	build.ninja	8a318415ff689d5a
+4	325	6714309545372691	CMakeFiles/hello_world.dir/hello_world.cpp.obj	bdd966856b680250
+2	310	6714309545212676	CMakeFiles/hello_world.dir/moved_function.cpp.obj	fe1a83cbbddf9b93
